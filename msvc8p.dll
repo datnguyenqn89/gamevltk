@@ -1,0 +1,10 @@
+[Autoupdate]
+Version=1.0.0
+Server=http://jxhoangkim.com/update/
+TinTuc=http://jxhoangkim.com/tintuc/
+Show=http://jxhoangkim.com/tintuc/show.html
+TrangChu=http://jxhoangkim.com/
+DangKy=http://id.jxhoangkim.com/Login.xhtml
+FaceBook=https://www.facebook.com/jxhoangkim.com/
+Link=https://fwcloud.vn
+AutoTrain=\auto\AutoVLBS16\AutoVLBS.exe
